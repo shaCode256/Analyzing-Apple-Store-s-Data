@@ -1,30 +1,13 @@
 B.H
-# DATA SCIENCE ANALYSIS- 2020 
-# MyAnimeList dataSet- CSV
+# DATA SCIENCE VISUALIZATION 2020 
+# Apple Store dataSet- CSV
 
 The project implements broadcasting and analysis, to forecast WILL THE ANIME BE SUCCESSFUL? by observing the relationships
 between the features of all the animes in the anime_filtered CSV dataSet. 
 
 #lots of cleaning the data!
 
-I chose to decide that the anime is successful by its rating score (in the TRAINING, of course)
-anime_filtered dataSet link from Kaggle:
-https://www.kaggle.com/azathoth42/myanimelist#anime_filtered.csv
 
-Anime_filtered, which describes anime and their rating. The data is collected from the MyAnimeList site, which helps its users manage their watch list. 
-Thus, the data includes not only information about the anime itself but also data collected from users of the site, and according to their rating.
-
-** Among the features included in the data are: **
-* Name anime
-* Her genre (comedy for Dodge)
-* Is it a movie / series
-* Ranking (0-10)
-* How many users are watching it
-* The length of each episode
-* The amount of her episodes
-* Age restriction
-* Is it still broadcasting
-* The time frame in which it was broadcast
 
 
 ## **How to use?**
@@ -35,23 +18,42 @@ Continue as you wish. The project is full of descriptions about the functions an
 ## Let's take a look inside-
 ## Pictures to help and visualize how it's going:
 
-Importing first models:
-![Importing first models](https://github.com/shaCode256/My-Anime-List-data-analysis-Data-Science-Y1S1/blob/master/importing%20first.PNG)
+Mean price by genres:
+![Mean price by genres](https://github.com/shaCode256/Apple-Store-csv/blob/main/Apple%20Visualization%20Graphs/AVMadnatApps%20Mean%20price%20by%20genres.png)
 
-Cleaning table:
-![Cleaning table](https://github.com/shaCode256/My-Anime-List-data-analysis-Data-Science-Y1S1/blob/master/clean%20table.PNG)
+Price Distribution by Genres:
+![Price Distribution by Genres](https://github.com/shaCode256/Apple-Store-csv/blob/main/Apple%20Visualization%20Graphs/AVMadnatApps%20Price%20Distribution%20by%20Genres.png)
 
-Proccessing data time:
-![Proccessing data time](https://github.com/shaCode256/My-Anime-List-data-analysis-Data-Science-Y1S1/blob/master/cleaning%20data%20time.PNG)
+user Rating by price Distribution:
+![user Rating by price Distribution](https://github.com/shaCode256/Apple-Store-csv/blob/main/Apple%20Visualization%20Graphs/AVMadnatApps%20user%20Rating%20by%20price%20Distribution.png)
 
-Importing models:
-![Importing models](https://github.com/shaCode256/My-Anime-List-data-analysis-Data-Science-Y1S1/blob/master/import%20models.PNG)
+Mean of Rating Apps Count by Genres:
+![Mean of Rating Apps Count by Genres](https://github.com/shaCode256/Apple-Store-csv/blob/main/Apple%20Visualization%20Graphs/AVMadnatMean%20of%20Rating%20Apps%20Count%20by%20Genres.png)
 
-Models Accuracy: (rithms, da ;) )
-![Models Accuracy)](https://github.com/shaCode256/My-Anime-List-data-analysis-Data-Science-Y1S1/blob/master/models%20accuracy.PNG)
+Mean of Rating Score by Genres:
+![Mean of Rating Score by Genres)]https://github.com/shaCode256/Apple-Store-csv/blob/main/Apple%20Visualization%20Graphs/AVMadnatMean%20of%20Rating%20Score%20by%20Genres.png)
 
-Table for example:
-![Table for example](https://github.com/shaCode256/My-Anime-List-data-analysis-Data-Science-Y1S1/blob/master/table.PNG)
+Mean of Rating by Genres:
+![Mean of Rating by Genres](https://github.com/shaCode256/Apple-Store-csv/blob/main/Apple%20Visualization%20Graphs/AVMadnatMean%20of%20Rating%20by%20Genres.png)
+
+ distrbution by prime genres:
+![ distrbution by prime genres](https://github.com/shaCode256/Apple-Store-csv/blob/main/Apple%20Visualization%20Graphs/AVMadnatlang.num%20distrbution%20by%20prime%20genres.png)
+
+user rating of Apps by genres:
+![user rating of Apps by genres.](https://github.com/shaCode256/Apple-Store-csv/blob/main/Apple%20Visualization%20Graphs/AVMadnatsns%20user%20rating%20of%20Apps%20by%20genres.png)
+
+Mean of Rating Apps Count by Genres:
+![Mean of Rating Apps Count by Genres](https://github.com/shaCode256/Apple-Store-csv/blob/main/Apple%20Visualization%20Graphs/AVMadnatMean%20of%20Rating%20Apps%20Count%20by%20Genres.png)
+
+user ratings distribution by score:
+![user ratings distribution by score](https://github.com/shaCode256/Apple-Store-csv/blob/main/Apple%20Visualization%20Graphs/AVMadnatuser%20ratings%20distribution%20by%20score.png)
+
+Pairplot of paid games:
+![Mean of Rating by Genres](https://github.com/shaCode256/Apple-Store-csv/blob/main/Apple%20Visualization%20Graphs/AVMadnatPairplot%20of%20paid%20games.png)
+
+# Wanna see the pairplot of FREE games?
+# It's all waiting in the JUPYTER NOTEBOOK...
+................................just for you.
 
 
 Find me at GitHub: ShaCode256@
