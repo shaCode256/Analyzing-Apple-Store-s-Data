@@ -42,9 +42,7 @@ user ratings distribution by score:
 Pairplot of paid games:
 ![Mean of Rating by Genres](https://github.com/shaCode256/Apple-Store-csv/blob/main/Apple%20Visualization%20Graphs/AVMadnatPairplot%20of%20paid%20games.png)
 
-# Wanna see the pairplot of FREE games?
-# It's all waiting in the JUPYTER NOTEBOOK...
-................................just for you.
+# pairplot of FREE games, and other various interesting visualizations are in the jupyter notebook.
 
 
 Find me at GitHub: ShaCode256@
