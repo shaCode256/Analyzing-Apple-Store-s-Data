@@ -1,19 +1,10 @@
 B.H
-# DATA SCIENCE VISUALIZATION 2020 
+# DATA SCIENCE VISUALIZATION
 # Apple Store dataSet- CSV
 
-The project implements broadcasting and analysis, to forecast WILL THE ANIME BE SUCCESSFUL? by observing the relationships
-between the features of all the animes in the anime_filtered CSV dataSet. 
-
-#lots of cleaning the data!
-
-
-
-
 ## **How to use?**
-Download the code and put it where you can access it. 
----You can start creating a graph by the command WGraph_DS g = new Wgraph_DS <> (); Then add nodes using the g.addNode (new NodeInfo (your desired new node key)) command.
-Continue as you wish. The project is full of descriptions about the functions and their use.
+Download the Python code and put it where you can access it. 
+Run it.
 
 ## Let's take a look inside-
 ## Pictures to help and visualize how it's going:
